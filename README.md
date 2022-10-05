@@ -15,3 +15,6 @@ Your tests must be running green on Github Actions
 
 ## Documentation
 ![](Images/Lab-11-UML.png)
+
+## Collaborations
+David Suy, Jordan Yamada, Jeffrey Smith
